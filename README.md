@@ -1,4 +1,4 @@
-# Hallo, ich bin **rabaukespielt**! 👋
+# Hallo, ich bin **Rabauke**! 👋
 
 Willkommen auf meinem GitHub-Profil! 
 
