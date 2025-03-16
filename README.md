@@ -6,9 +6,9 @@ Willkommen auf meinem GitHub-Profil!
 
 ## 🌟 **Über mich**
 
-- 👾 **Interessen:** Alles rund um **Discord-Bots**, **Automatisierungen** und **kreative Softwarelösungen**.
-- 💬 **Aktiv im:** Discord, wo ich gerne an Servern arbeite und coole Features entwickle.
-- 🛠️ **Aktuell arbeite ich an:** Verschiedenen Projekten, die helfen, Server einfacher zu verwalten und zu organisieren.
+- 👾 **Interessen:** Developement, ...
+- 💬 **Aktiv im:** Discord
+- 🛠️ **Aktuell arbeite ich an:** ClyStudios und bin Admin auf AstroGames
 
 ---
 
