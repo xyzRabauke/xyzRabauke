@@ -6,9 +6,8 @@ Willkommen auf meinem GitHub-Profil!
 
 ## 🌟 **Über mich**
 
-- 👾 **Interessen:** Developement, ...
-- 💬 **Aktiv im:** Discord
-- 🛠️ **Aktuell arbeite ich an:** ClyStudios und bin Admin auf AstroGames
+- 👾 **Interessen:** Developement, Gaming
+- 💬 **Aktiv im:** Discord & Ts3 und MC
 
 ---
 
