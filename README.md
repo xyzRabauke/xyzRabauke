@@ -21,7 +21,7 @@ Willkommen auf meinem GitHub-Profil!
 
 ## 📌 **Kontakt**
 
-- **E-Mail:** [contact@clystudios.de](mailto:contact@clystudios.de)
+- **E-Mail:** [contact@rabaukespielt.net](mailto:contact@rabaukespielt.net)
 
 ---
 
